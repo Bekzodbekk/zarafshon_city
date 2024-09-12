@@ -1,0 +1,9 @@
+service:
+  host: localhost
+  port: 8002
+
+mongosh:
+  host: localhost
+  port: 27017
+  database: usersDB
+  collection: users
