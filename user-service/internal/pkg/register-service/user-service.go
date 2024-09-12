@@ -1,0 +1,3 @@
+package registerservice
+
+func Register()
