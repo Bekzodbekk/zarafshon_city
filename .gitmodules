@@ -1,0 +1,3 @@
+[submodule "zarafshon_city_proto"]
+	path = zarafshon_city_proto
+	url = git@github.com:Bekzodbekk/zarafshon_city_proto.git
