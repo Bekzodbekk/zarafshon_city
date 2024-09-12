@@ -2,11 +2,11 @@ package main
 
 import (
 	"log"
-	"product-serivce/internal/pkg/load"
-	"product-serivce/internal/pkg/mongosh"
-	productservice "product-serivce/internal/pkg/product-service"
-	"product-serivce/internal/repository"
-	"product-serivce/internal/service"
+	"product-service/internal/pkg/load"
+	"product-service/internal/pkg/mongosh"
+	productservice "product-service/internal/pkg/product-service"
+	"product-service/internal/repository"
+	"product-service/internal/service"
 )
 
 func main() {

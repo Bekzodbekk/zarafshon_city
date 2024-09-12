@@ -3,7 +3,7 @@ package mongosh
 import (
 	"context"
 	"fmt"
-	"product-serivce/internal/pkg/load"
+	"product-service/internal/pkg/load"
 
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
