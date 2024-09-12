@@ -2,7 +2,7 @@ package service
 
 import (
 	"context"
-	"product-serivce/internal/repository"
+	"product-service/internal/repository"
 
 	"github.com/Bekzodbekk/zarafshon_city_proto/genproto/productspb"
 )

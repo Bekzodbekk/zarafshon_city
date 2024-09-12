@@ -3,8 +3,8 @@ package productservice
 import (
 	"fmt"
 	"net"
-	"product-serivce/internal/pkg/load"
-	"product-serivce/internal/service"
+	"product-service/internal/pkg/load"
+	"product-service/internal/service"
 
 	"github.com/Bekzodbekk/zarafshon_city_proto/genproto/productspb"
 	"google.golang.org/grpc"
